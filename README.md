@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2BA5FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+YAGO+MENDES;WELCOME+TO+MY+PROFILE!)](https://git.io/typing-svg)
 
-##  About Me
+## 👨‍💻 About Me
 - **Education:** Computer Science at UNA
 - **Profession:** Software Developer at Haaify
 - **Focus:** JavaScript & back-end development
