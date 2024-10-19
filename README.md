@@ -7,11 +7,6 @@
   </a>
 </div>
 
-<div style="text-align: center;">
-    <img src="https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/aedes-aegypti/imagens/divisorpagina.png/@@images/image" 
-         style="width: 22%; max-width: 753px; margin-top: 0px; margin-bottom: 0px;">
-</div>
-
 ## 🎯 Technical Skills
 #### 📚 Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat&logo=html5&logoColor=white)
