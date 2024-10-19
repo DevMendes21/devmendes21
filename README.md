@@ -46,13 +46,13 @@
 
 ## 🌟 My Stats
 <div align="center" style="display: flex; flex-direction: row; justify-content: space-between; gap: 4px;">
-  <div style="width: 33%; min-width: 280px;">
+  <div style="width: 33%; min-width: 20px;">
     <img height="95" src="https://github-readme-stats.vercel.app/api?username=DevMendes21&show_icons=true&theme=dark&hide=stars,issues" alt="GitHub Stats" />
   </div>
-  <div style="width: 33%; min-width: 280px;">
+  <div style="width: 33%; min-width: 20px;">
     <img height="95" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMendes21&layout=compact&theme=dark&hide=html,shell,scheme,lua,css,scss,sass,python,mdx,md" alt="Top Languages" />
   </div>
-  <div style="width: 33%; min-width: 280px;">
+  <div style="width: 33%; min-width: 20px;">
     <img height="95" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMendes21&theme=dark" alt="Commits Activity" />
   </div>
 </div>
