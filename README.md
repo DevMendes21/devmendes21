@@ -45,10 +45,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yg_mendes/)
 
 ## 🌟 My Stats
-<div align="center" style="display: flex; justify-content: space-between; gap: 1px;">
-  <img height="80" width="38%" src="https://github-readme-stats.vercel.app/api?username=DevMendes21&show_icons=true&theme=dark&hide=stars,issues" alt="GitHub Stats" />
-  <img height="80" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMendes21&layout=compact&theme=dark&hide=html,shell,scheme,lua,css,scss,sass,python,mdx,md" alt="Top Languages" />
-  <img height="80" width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMendes21&theme=dark" alt="Commits Activity" />
+<div align="center" style="display: flex; justify-content: space-between; gap: 2px;">
+  <img height="80" width="35%" src="https://github-readme-stats.vercel.app/api?username=DevMendes21&show_icons=true&theme=dark&hide=stars,issues" alt="GitHub Stats" />
+  <img height="80" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMendes21&layout=compact&theme=dark&hide=html,shell,scheme,lua,css,scss,sass,python,mdx,md" alt="Top Languages" />
+  <img height="80" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMendes21&theme=dark" alt="Commits Activity" />
 </div>
 
 ---
