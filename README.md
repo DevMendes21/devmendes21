@@ -7,6 +7,11 @@
   </a>
 </div>
 
+## ☎️ Contact
+[![EMAIL](https://img.shields.io/badge/Email-222222?style=flat&logo=gmail&logoColor=white)](mailto:yg_mendes@example.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-mendes-328b5923b/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yg_mendes/)
+
 ## 🎯 Technical Skills
 #### 📚 Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat&logo=html5&logoColor=white)
@@ -38,11 +43,6 @@
 ## 📁 Notable Projects
 - **[ReguaDeDisparos](https://github.com/DevMendes21/ReguaDeDisparos):** Automates WhatsApp notifications for vehicle rental associates using JavaScript.
 - **[CRUD-LOCADORA](https://github.com/DevMendes21/CRUD-LOCADORA):** Java and MySQL-based vehicle rental management system.
-
-## ☎️ Contact
-[![EMAIL](https://img.shields.io/badge/Email-222222?style=flat&logo=gmail&logoColor=white)](mailto:yg_mendes@example.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-mendes-328b5923b/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yg_mendes/)
 
 ## 🌟 My Stats
 <div align="center" style="display: flex; justify-content: space-between; gap: 2px;">
