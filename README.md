@@ -45,7 +45,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yg_mendes/)
 
 ## 🌟 My Stats
-<div align="center" style="display: flex; flex-direction: row; justify-content: space-between; gap: 4px;">
+<div align="left" style="display: flex; flex-direction: row; justify-content: space-between; gap: 4px;">
   <div style="width: 38%;">
     <img height="95" src="https://github-readme-stats.vercel.app/api?username=DevMendes21&show_icons=true&theme=dark&hide=stars,issues" alt="GitHub Stats" />
   </div>
