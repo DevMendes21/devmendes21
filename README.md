@@ -41,8 +41,8 @@
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
 
 ## 📁 Notable Projects
-- **[desafio-itau-backend](https://github.com/DevMendes21/desafio-itau-backend):** REST API for financial transactions with real-time statistics using Spring Boot, Docker, and comprehensive testing.
 - **[CRUD-LOCADORA](https://github.com/DevMendes21/CRUD-LOCADORA):** Java and MySQL-based vehicle rental management system.
+- **[desafio-itau-backend](https://github.com/DevMendes21/desafio-itau-backend):** REST API for financial transactions with real-time statistics using Spring Boot, Docker, and comprehensive testing.
 
 ## 🌟 My Stats
 <div align="center" style="display: flex; justify-content: space-between; gap: 2px;">
