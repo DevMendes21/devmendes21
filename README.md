@@ -41,7 +41,7 @@
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
 
 ## 📁 Notable Projects
-- **[ReguaDeDisparos](https://github.com/DevMendes21/ReguaDeDisparos):** Automates WhatsApp notifications for vehicle rental associates using JavaScript.
+- **[desafio-itau-backend](https://github.com/DevMendes21/desafio-itau-backend):** REST API for financial transactions with real-time statistics using Spring Boot, Docker, and comprehensive testing.
 - **[CRUD-LOCADORA](https://github.com/DevMendes21/CRUD-LOCADORA):** Java and MySQL-based vehicle rental management system.
 
 ## 🌟 My Stats
