@@ -42,8 +42,8 @@
 
 ## 📁 Notable Projects
 - **[CRUD-LOCADORA](https://github.com/DevMendes21/CRUD-LOCADORA):** Java and MySQL-based vehicle rental management system.
-- **[desafio-nubank-backend](https://github.com/DevMendes21/desafio-nubank-backend):** REST API for client and contact management with OneToMany relationships using Spring Boot, PostgreSQL, Docker and automated testing.
 - **[desafio-itau-backend](https://github.com/DevMendes21/desafio-itau-backend):** REST API for financial transactions with real-time statistics using Spring Boot, Docker, and comprehensive testing.
+- **[desafio-nubank-backend](https://github.com/DevMendes21/desafio-nubank-backend):** REST API for client and contact management with OneToMany relationships using Spring Boot, PostgreSQL, Docker and automated testing.
 
 ## 🌟 My Stats
 <div align="center" style="display: flex; justify-content: space-between; gap: 2px;">
