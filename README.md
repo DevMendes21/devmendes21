@@ -12,33 +12,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-mendes-328b5923b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DevMendes21)
 
-## 🎯 Technical Skills
-#### 📚 Languages:
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=1572B6)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+## 🎯 Technical Skills  
 
-#### 🚀 Technologies:
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat&logo=firebase&logoColor=yellow)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+#### 📚 Languages:  
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat&logo=css3&logoColor=blue)  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=1572B6)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat&logo=database&logoColor=blue)  
 
-#### ⚙️ Tools:
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat&logo=git&logoColor=orange)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0D1117?style=flat&logo=jira&logoColor=blue)
+#### 🚀 Technologies:  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat&logo=chainlink&logoColor=blue)  ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat&logo=firebase&logoColor=yellow)  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)  
 
-#### 📊 Platforms:
-![BLiP](https://img.shields.io/badge/BLiP-0D1117?style=flat&logo=blip&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![RD Station](https://img.shields.io/badge/RD%20Station-0076C2?style=flat&logo=rd-station&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
+#### ⚙️ Tools:  
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat&logo=git&logoColor=orange)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  ![Jira](https://img.shields.io/badge/Jira-0D1117?style=flat&logo=jira&logoColor=blue)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+
+#### 📊 Platforms:  
+![BLiP](https://img.shields.io/badge/BLiP-0D1117?style=flat&logo=blip&logoColor=white)  ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)  ![RD Station](https://img.shields.io/badge/RD%20Station-0076C2?style=flat&logo=rd-station&logoColor=white)  ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)  
 
 ## 📁 Notable Projects
 - **[CRUD-LOCADORA](https://github.com/DevMendes21/CRUD-LOCADORA):** Java and MySQL-based vehicle rental management system.
