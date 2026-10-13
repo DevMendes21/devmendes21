@@ -18,7 +18,7 @@
 
 ---
 
-### 👨‍💻 About me
+### About me
 
 ```python
 class YagoMendes:
@@ -35,7 +35,7 @@ class YagoMendes:
 
 ---
 
-### 🔭 What I'm building now
+### What I'm building now
 
 | | Project | What it does |
 |:-:|---|---|
@@ -48,11 +48,11 @@ class YagoMendes:
 
 ---
 
-### ⚡ Production impact
+### Production impact
 
 <div align="center">
 
-| 🚀 **-60%** | 🟢 **99%** | ⏱️ **-85%** | 📈 **1000s/day** |
+| **-60%** | **99%** |**-85%** |**1000s/day** |
 |:-:|:-:|:-:|:-:|
 | latency in critical flows | uptime in high-volume automations | manual work (B2B RPA) | transactions processed with resilience |
 
@@ -60,7 +60,7 @@ class YagoMendes:
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -84,7 +84,7 @@ class YagoMendes:
 
 ---
 
-### 📁 Public projects
+### Public projects
 
 <div align="center">
 
@@ -94,7 +94,7 @@ class YagoMendes:
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
